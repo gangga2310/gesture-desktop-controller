@@ -24,6 +24,9 @@ Thumbs.db
 # Local calibration
 config.json
 
+# Documentation / non-program files
+docs/
+konteks_pengerjaan.md
 # Test cache
 .pytest_cache/
 
