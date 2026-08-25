@@ -1,17 +1,47 @@
-camera_test.py          ✅
+Gesture Desktop Controller v1.0
 
-hand_detect.py          ✅
+Phase 0 : Project Setup               ✅
+-----------------------------------------
+✔ Struktur project
+✔ Virtual Environment
+✔ Git
+✔ GitHub
+✔ MediaPipe
+✔ OpenCV
 
-landmark_reader.py      ✅
+Phase 1 : Computer Vision Foundation  (70%)
+-----------------------------------------
+✔ Camera Test
+✔ Hand Detection
+✔ Landmark Reader
+✔ Drawing Utilities
+✔ Geometry Utilities
 
-gesture_utils.py
+Phase 2 : Gesture Recognition
+-----------------------------------------
+⬜ Pinch
+⬜ Fist
+⬜ Open Palm
+⬜ Rotate
+⬜ Swipe
 
-gesture_pinch.py
+Phase 3 : Windows Integration
+-----------------------------------------
+⬜ Master Volume
+⬜ Per Application Volume
+⬜ Mute
+⬜ Brightness
 
-gesture_fist.py
+Phase 4 : GUI
+-----------------------------------------
+⬜ Settings
+⬜ Camera Preview
+⬜ Calibration
+⬜ Profile
 
-gesture_rotate.py
-
-volume_control.py
-
-app_selector.py
+Phase 5 : Release
+-----------------------------------------
+⬜ Installer
+⬜ Documentation
+⬜ Demo Video
+⬜ Release v1.0
